@@ -1,0 +1,6 @@
+Modelo\Producto.class
+Control\MuestraProductos.class
+Control\Consulta.class
+Control\Registro.class
+Modelo\ConectarBD.class
+Modelo\GestorBD.class
